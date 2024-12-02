@@ -11,7 +11,7 @@ A non-exhaustive list of awards and achievements obtained are listed below:
 
 - **University Medal** -- 1st in Bachelor of Commerce cohort, 2021
 - **Proxime Accessit** -- 2nd in Bachelor of Science cohort, 2023
-- **Dean’s Honours List** -- Top 3% in each year level, 2019 to 2023
+- **Dean’s Honours List (x5)** -- Top 3% in each year level, 2019 to 2023
 - **Leaders in Communities Award** -- 2022
 - **School of Mathematics Vacation Scholarship** -- 2022
 - **School of Physics Laby Research Scholarship** -- 2022
