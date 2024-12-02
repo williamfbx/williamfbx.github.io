@@ -261,3 +261,6 @@ discord:
 mastodon:
   name: Mastodon
   icon: icon-mastodon
+cv:
+  name: Curriculum Vitae
+  icon: icon-box-add
