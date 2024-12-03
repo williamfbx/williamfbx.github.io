@@ -25,6 +25,12 @@ Two of my favourite hobbies are skiing and photography. Some photos taken during
 
 ![Screenshot](/assets/img/photography/japan_1.JPG){:.lead width="1920" height="1080" loading="lazy"}
 
+## Mount Everest, China (Northern Side)
+
+![Screenshot](/assets/img/photography/everest_1.jpg){:.lead width="1920" height="1080" loading="lazy"}
+
+![Screenshot](/assets/img/photography/everest_2.jpg){:.lead width="1920" height="1080" loading="lazy"}
+
 ## Zhangjiajie, China
 
 ![Screenshot](/assets/img/photography/zjj_1.jpg){:.lead width="1920" height="1080" loading="lazy"}
