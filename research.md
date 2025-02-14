@@ -17,13 +17,13 @@ hide_description: true
 Deepesh Singh, Gopikrishnan Muraleedharan, **Boxiang Fu**, Chen-Mou Cheng, Nicolas Roussy Newton, Peter P. Rohde, and Gavin K. Brennen
 
 #### Journal
-In submission for Quantum Science and Technology
+*Quantum Science and Technology* 2025, *10*(2)
 
 #### Abstract
 Since its advent in 2011, boson sampling has been a preferred candidate for demonstrating quantum advantage because of its simplicity and near-term requirements compared to other quantum algorithms. We propose to use a variant, called coarse-grained boson-sampling (CGBS), as a quantum Proof-of-Work (PoW) scheme for blockchain consensus. The users perform boson sampling using input states that depend on the current block information and commit their samples to the network. Afterwards, CGBS strategies are determined which can be used to both validate samples and reward successful miners. By combining rewards for miners committing honest samples together with penalties for miners committing dishonest samples, a Nash equilibrium is found that incentivizes honest nodes. We provide numerical evidence that these validation tests are hard to spoof classically without knowing the binning scheme ahead of time and show the robustness of our protocol to small partial distinguishability of photons. The scheme works for both Fock state boson sampling and Gaussian boson sampling and provides dramatic speedup and energy savings relative to computation by classical hardware.
 
 #### Links
-[[PDF]](/assets/img/docs/PoW.pdf), [[DOI]](https://doi.org/10.48550/arXiv.2305.19865)
+[[PDF]](/assets/img/docs/PoW.pdf), [[DOI]](https://doi.org/10.1088/2058-9565/adae2b), [[Patent]](/assets/img/docs/Patent.pdf)
 
 ### Economic Performance Indicators for a Geothermal Aquatic Center in Victoria, Australia
 

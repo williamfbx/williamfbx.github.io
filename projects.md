@@ -9,6 +9,27 @@ hide_description: true
 
 A non-exhaustive list of projects completed as coursework, independent study, or research internships.
 
+## Lunar ROADSTER Autonomous Moon-Working Rover
+
+![Screenshot](/assets/img/projects/rover.jpg){:style="width: 75%; height: auto;"}
+
+#### Description
+The Lunar Robotic Operator for Autonomous Development of Surface Trails and Exploration Routes (Lunar ROADSTER) is an autonomous moon-working rover, capable of finding exploration routes and grooming the lunar surface to develop traversable surface trails. These groomed trails will become the backbone for the colonization of the Moon by enabling transportation, logistics, and enterprise development.
+
+#### Links
+[[Website]](https://mrsdprojects.ri.cmu.edu/2025teami/)
+
+
+## Particle Filter with ESS Resampling
+
+![Screenshot](/assets/img/projects/particleESS.png){:style="width: 75%; height: auto;"}
+
+#### Description
+Implemented a particle filter with dynamic ESS resampling for pose estimation. Completed as a part of project coursework for the subject Robot Localization and Mapping (16833-A) at Carnegie Mellon University.
+
+#### Links
+[[Report]](https://github.com/williamfbx/CMU-16833/blob/main/PS1/16833_Homework1_PDF.pdf), [[Code]](https://github.com/williamfbx/CMU-16833/tree/main)
+
 
 ## Neural Networks for Recognition, Detection, and Tracking
 
