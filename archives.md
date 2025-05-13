@@ -12,6 +12,10 @@ A non-exhaustive repository of course notes are archived here.
 
 
 ## Carnegie Mellon University
+<a href="https://github.com/williamfbx/CMU-16697">Introduction to Robotics Business</a><br>
+<a href="https://github.com/williamfbx/CMU-16681">MRSD Project I</a><br>
+<a href="https://github.com/williamfbx/CMU-16662">Robot Autonomy</a><br>
+<a href="https://github.com/williamfbx/CMU-16833">Robot Localization and Mapping</a><br>
 <a href="https://github.com/williamfbx/CMU-16720">Computer Vision</a><br>
 <a href="https://github.com/williamfbx/CMU-16642">Manipulation, Estimation, and Control</a><br>
 <a href="https://github.com/williamfbx/CMU-16665">Robot Mobility on Air, Land, and Sea</a><br>
